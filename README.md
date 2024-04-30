@@ -1,1 +1,1 @@
-# NLP_big_bang_Theory
+# NLP project on Big Bang Theory series
